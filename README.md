@@ -1,4 +1,4 @@
-# GitHub User Activity CLI App
+# [COMPLETE] GitHub User Activity CLI App
 
 A simple command line interface (CLI) app to fetch the recent activity of a GitHub user and display it in the terminal. Uses [Gson](https://github.com/google/gson) library for object mapping. JAR file includes Gson JAR file.
 
